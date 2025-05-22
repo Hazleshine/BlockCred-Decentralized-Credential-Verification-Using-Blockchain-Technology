@@ -1,8 +1,9 @@
-# CertiChain: A Blockchain-Based Digital Certificate Authentication System
+# BlockCred: Decentralized Credential Verification Using Blockchain Technology
 
 ## 📄 Overview
 
-**CertiChain** is a decentralized application designed to authenticate academic certificates using blockchain technology. By leveraging the immutable nature of blockchain, CertiChain ensures that issued certificates are tamper-proof and easily verifiable by employers, institutions, and other stakeholders.
+**BlockCred** is a decentralized application designed to authenticate academic certificates using blockchain technology. By leveraging the immutable nature of blockchain, BlockCred ensures that issued certificates are tamper-proof and easily verifiable by employers, institutions, and other stakeholders.
+
 
 ## Table of Contents
 
@@ -87,8 +88,8 @@ CertiChain-A-Blockchain-Based-Digital-Certificate-Authentication-System/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/CertiChain.git
-   cd CertiChain
+   git clone https://github.com/hazleshine/BlockCred-Decentralized-Credential-Verification.git
+   cd BlockCred-Decentralized-Credential-Verification
    ```
 2. Install dependencies:
    - **Frontend:**
